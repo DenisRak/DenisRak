@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет,+меня+зовут+Денис!+👋)](https://git.io/typing-svg)
+# Привет, меня зовут Денис!👋)
     
 
 ## О себе
