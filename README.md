@@ -14,5 +14,6 @@
 - Selenium
 - Django
 
-
+## Я использую
+- ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8)
 
