@@ -11,5 +11,7 @@
 ## Мои навыки
 
 - Python
+- Selenium
+- Django
 
 
