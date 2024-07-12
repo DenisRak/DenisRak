@@ -11,4 +11,3 @@
 
 - Python
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш-username&show_icons=true&theme=radical)
