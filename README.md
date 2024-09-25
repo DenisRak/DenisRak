@@ -9,7 +9,7 @@
 - Закончил две онлайн-школы по программированию на Python.
 - Считаю, что не одна школа не дает достаточно знаний, поэтому продолжаю обучение самостоятельно преимущественно на платформе Stepik.
 
-[Мой профиль на Stepik](https://stepik.org/users/494950547/profile?auth=login&preview=true)(https://img.shields.io/badge/requests-8A2BE2)
+[Мой профиль на Stepik](https://img.shields.io/badge/requests-8A2BE2)(https://stepik.org/users/494950547/profile?auth=login&preview=true)
 
 
 
