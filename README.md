@@ -15,6 +15,7 @@
 
 ## Мои навыки
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![FastAPI Logo](https://raw.githubusercontent.com/ваш-username/ваш-репозиторий/main/docs/images/fastapi-logo.png)
 
 ![beautifulsoup](https://img.shields.io/badge/beautifulsoup-4.0+-blue) ![requests](https://img.shields.io/badge/requests-8A2BE2)
 - Python
